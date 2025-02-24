@@ -1,0 +1,423 @@
+*{
+    margin: 0%;
+    font-family: arial;
+    border: border-box;
+}
+
+/* box 1 */
+
+.nevber{
+    height:60px;
+    background-color:#0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+   
+    
+
+}
+.nevlogo{
+    height: 95%;
+    width: 8%;
+    
+}
+.logo{
+    background-image: url("1.png");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+}
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+    margin:2px;
+}
+
+/* box 2 */
+
+.add1{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left:20%;
+    padding-top:5% ;
+}
+.add2{
+   
+    font-size: 1rem;
+    margin-left:3%;
+   
+}
+.addicon{
+    display: flex;
+    align-items: center;
+    padding: 4%;
+}
+.nevaddress{
+    height: 90%;
+    width: 10%;  
+    
+    
+}
+/* box 3 */
+
+
+.nevseacher{
+    
+    display: flex;
+    background-color: rgb(248, 148, 18);
+    height: 67%;
+    width: 45%; 
+    border-radius: 2%;
+    justify-content: space-evenly;
+   
+   
+}
+.nevseacher:hover{
+    border: 2px solid orange;
+}
+.selectsearch{
+    background-color: #f3f3f3;
+    width: 9%;
+    height: `100%;
+    text-align: center;
+    border-top-left-radius: 3%;
+    border-bottom-left-radius: 4%;
+    border: none;
+    font-size:1rem;
+}
+.Search{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+.nersearchicon{
+    width: 10%;
+    display: flex;
+   font-size: 1.5rem;
+   justify-content: center;
+   align-items: center;
+   
+    
+}
+
+/* box 4 */
+
+span{
+    font-size: 0.7rem;
+
+}
+.account{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nevhello{
+    height: 70%;
+    width: 10%;  
+    text-align: center;
+    padding-top: 4px;
+}
+.nevreturn{
+    height: 80%;
+    width: 10%;  
+    text-align: center;
+    padding-top: 4px;
+}
+
+/* box 6 */
+.cart i{
+    font-size: 1.8rem;
+    
+    
+}
+.cart {
+    font-size: 1rem;
+    font-weight: 700;
+    height: 60%;
+    width: 5%; 
+    
+    
+}
+
+/* 2nd  round */
+
+/* box 1 */
+
+
+.nevplan i{
+    font-size: 1.3rem;
+}
+.nevplan {
+    font-size: 1rem;
+    font-weight: 700;
+
+}
+
+.pnal{
+    height: 50px;
+    background-color: #222f3d;
+    display: flex;
+    color: #ffffff;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.plane2 p{
+    display:inline;
+  margin-left: 5%;
+   
+}
+
+.plane2{
+    
+    font-size: 0.85rem;
+    font-weight: 350;
+    width:70%;
+    
+
+}
+.deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+/* hero scection */
+
+.herosection{
+  background-image: url("07.jpg");
+  background-size: cover;
+  height: 600px;
+}
+
+.in{
+    display: flex;
+    width:90%;
+    height: 5%;
+    background-color: whitesmoke;
+    font-size: 0.85rem;
+    justify-content: center;
+    position: absolute;
+    bottom: 40%;
+    margin-left: 5%;
+    align-items: center;
+    
+}
+ p a{
+    text-decoration: none;
+    color: #3cbdf4;
+   
+    
+    
+    
+}
+.contain{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#cccccc;
+ 
+   
+    
+   
+}
+.box{
+    height: 400%;
+    width: 23%;
+    
+   background-color: white;
+   padding: 3% 0px 2%;
+   margin-top: -20%;
+   font-size: 130%;
+   color: #0f1111;
+   
+}
+ .boximage{
+    background-repeat: no-repeat;
+    background-size:60%;
+    width: 150%;
+    height: 310px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    
+ }
+
+.class1{
+    margin-left: 15%;
+}
+
+
+.boximage2{
+    background-repeat: no-repeat;
+    background-size:60% 100%;
+    width: 150%;
+    height: 300px;
+    margin-top: 1.7rem;
+    margin-bottom: 1rem;
+    
+ }
+ .class2{
+    margin-left:11%;
+
+}
+
+.class2 p{
+    padding-top: 8%;
+}
+
+.boximage3{
+    background-repeat: no-repeat;
+    background-size:60% 100%;
+    width: 150%;
+    height: 310px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+ }
+ .class3{
+    margin-left:12%;
+
+}
+ .boximage4{
+    background-repeat: no-repeat;
+    background-size:60% 100%;
+    width: 150%;
+    height: 330px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    
+ }
+ .class4{
+    margin-left:12%;
+
+}
+
+ .contain2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#cccccc;
+       
+}
+
+.box21{
+    height: 29%;
+    width: 23%;
+    
+   background-color: white;
+   padding: 3% 0px 2%;
+   margin-top: 1%;
+   font-size: 130%;
+   color: #0f1111;
+}
+.xbox4{
+    background-repeat: no-repeat;
+    background-size:60% 100%;
+    height: 300%;
+
+}
+
+.color{
+    background-color: #cccccc;
+    height: 40px;
+}
+
+.sing{
+
+    height: 100px;
+    border: 0.1px solid rgb(214, 210, 210);  
+    margin-top: 40px;  
+    margin-bottom: 20px;
+    text-align: center;
+  padding-top: 50px;
+    font-size: 18px;
+    border-radius: 5%;
+   
+ 
+
+}
+
+.singup a{
+  
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    padding-top: 6px;
+    color: #3cbdf4 ;
+}
+
+.foot1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.foot2{
+    background-color: #222f3d;
+    color: #ffffff;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.foot2 a{
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: 10px;
+  
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display: block;
+    color: #dddddddd;
+    text-decoration: none;
+}
+.foot3{
+    background-color: #222f3d;
+    color: wheat;
+    border-top: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+.logo1{
+    background-image: url("001.png");
+    background-repeat: no-repeat;
+    background-size: 150px 92px;
+    height: 50px;
+    width: 100px;
+}
+.foot4{
+    background-color: #0f1111;
+    color:white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
+    
+}
+.page{
+    padding-top: 20px;
+}
+.page a{
+   padding-top: 25px;
+   font-size: 12px;
+   color: white;
+   text-decoration: none;
+   padding-left: 20px;
+   
+   
+
+}
+.copy{
+    padding-top: 15px;
+    
+}
